@@ -1,0 +1,6 @@
+numpy>=2.0.2
+pandas>=2.2.3
+scipy>=1.13.1
+scikit-learn>=1.6,<1.10
+matplotlib>=3.8
+econml==0.17.0
